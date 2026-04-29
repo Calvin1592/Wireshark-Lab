@@ -1,5 +1,4 @@
 # Wireshark Lab 
-
 ## Network Protocol Analysis ##
 
 I completed a hands-on Wireshark lab through Cybrary focused on network packet analysis and protocol investigation. This lab strengthened my skills in examining network traffic across different OSI model layers.
