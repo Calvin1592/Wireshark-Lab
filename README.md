@@ -18,6 +18,6 @@ Skills Demonstrated:
 
 Through this lab, I practiced packet filtering, protocol dissection, and deep inspection of network communications across multiple OSI layers, reinforcing my understanding of how different network protocols interact and how to effectively troubleshoot network issues using Wireshark.
 
-[Watch the Video] C:\Users\Calvi\OneDrive\Videos\Cybrary Wireshark Lab.mp4 
+[Watch the Video] https://1drv.ms/v/c/4B0F9ECAC205FAB0/IQBjIc8kvVbBRrTnuMI7MjXmAYjilNIucRYWVMZqU9QJ6fg?e=Y8oioj
 
 
